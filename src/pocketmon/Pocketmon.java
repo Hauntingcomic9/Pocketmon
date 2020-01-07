@@ -7,7 +7,7 @@
 package pocketmon;
 
 /**
- * This is a test for uploading to Github
+ * 
  * @author ktad2
  */
 public class Pocketmon {
